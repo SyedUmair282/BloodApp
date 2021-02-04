@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349027349283",
+    "firebase_url": "https://stopwatchapplication-js.firebaseio.com",
+    "project_id": "stopwatchapplication-js",
+    "storage_bucket": "stopwatchapplication-js.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349027349283:android:1c0dd2f7f348e68c281296",
+        "android_client_info": {
+          "package_name": "com.blood_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349027349283-skghk0f0sk2gdp7lvinc4tavier1m6bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXuusKOgocRiUiZ1ZUSlltLbNFLqlRi_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349027349283-skghk0f0sk2gdp7lvinc4tavier1m6bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
